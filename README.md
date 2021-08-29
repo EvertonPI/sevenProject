@@ -1,2 +1,9 @@
-# sevenProject
-- criação de sete projetos em javascript em sete dias aonde levamos a maneira de codificar e a logica de programação .
+# Seven Project
+
+- criação de sete projetos em javascript em sete dias aonde levamos a maneira de
+  codificar e a logica de programação .
+
+## First Project
+
+- Uma bateria que tocar os sons apertado no teclado ou que coloco no input e
+  aperte o botão tocar .
